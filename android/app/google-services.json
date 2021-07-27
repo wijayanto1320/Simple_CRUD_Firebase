@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427016989467",
+    "project_id": "fir-crud-2019c",
+    "storage_bucket": "fir-crud-2019c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427016989467:android:2f7cac6f9ab9b905c081be",
+        "android_client_info": {
+          "package_name": "com.example.fibasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427016989467-tg767ft6pi069qlev3o82jpd1ofom0tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiDLTKtLKyHqfyWZbTqyXLIyVIFxY3_Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427016989467-tg767ft6pi069qlev3o82jpd1ofom0tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
